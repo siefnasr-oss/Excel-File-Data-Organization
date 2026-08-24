@@ -23,7 +23,7 @@ Make sure that the **`census2010`** file does not already exist in the folder so
 by the code.
 
 ---
-# Auther
+# Author
 *This project is an application of what I learned from the book **Automate the Boring Stuff with Python***.
 
 Sief Nasr

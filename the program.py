@@ -2,7 +2,6 @@
 
 import pprint
 import ExcelData
-import census2010
 
 data = pprint.pformat(ExcelData.CountyData)
 
